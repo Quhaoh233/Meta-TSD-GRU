@@ -1,0 +1,8 @@
+Headline
+TIME: 5min/step, from june 1 to june 30, 2018
+OCCUPANCY: the number of in-use parking spaces
+CAPACITY: the number of parking spaces
+TYPE: commercial (C, 1), Hospical (H, 2), Office (O, 3), Residential (R, 4), Sport & Leisure (S, 5), Tourism (T, 6)
+POI_DENSITY: the level of POI (points of interest) density
+GPSX: longitude
+GPSY: latitude
